@@ -252,7 +252,11 @@ body {
 }
 
 .margin-bottom-md {
-  margin-bottom: 4.8rem !important;
+  margin-bottom: 9.4rem !important;
+}
+
+.margin-bottom-sm {
+  margin-bottom: 1.6rem !important;
 }
 
 .center-text {
